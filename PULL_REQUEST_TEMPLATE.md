@@ -1,6 +1,6 @@
 # Pull Request – Depression Pattern Model (DPM)
 
-Thank you for contributing to the LPT project.
+Thank you for contributing to the DPM project.
 
 Please complete the following checklist and provide clear details to help us review your submission.
 
