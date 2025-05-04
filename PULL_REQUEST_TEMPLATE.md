@@ -1,4 +1,4 @@
-# Pull Request – Legacy Patch Theory (LPT)
+# Pull Request – Depression Pattern Model (DPM)
 
 Thank you for contributing to the LPT project.
 
