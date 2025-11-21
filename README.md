@@ -1,45 +1,99 @@
 📘 Depression Pattern Model (DPM)
-The Depression Pattern Model (DPM) is a practical, self-mapping framework developed by Alien Algorithms Ltd® to help individuals identify and navigate depressive episodes through structured pattern recognition.
 
-Rather than focusing on static diagnoses or generalized symptom checklists, DPM encourages users to actively document their daily mental states, emotional fluctuations, triggers, and environmental conditions. Over time, these entries build into a pattern profile that makes the invisible visible — giving users a clearer sense of when, how, and why depression cycles manifest.
+© 2025 Alien Algorithms Ltd®
+Licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-🧠 Why It Matters
-Depression rarely follows a predictable script. Its symptoms can shift subtly, hide behind routine, or appear suddenly in response to long-suppressed stimuli. The DPM empowers users to reclaim insight by:
+The Depression Pattern Model (DPM) is a self-directed mapping framework that helps individuals observe and understand depressive states through structured pattern recognition. Instead of framing depression as a fixed identity, DPM reveals it as a recurring internal system made of emotional, cognitive, physical, and behavioural signals that shift in predictable ways over time.
 
-Logging daily emotional states using consistent, minimal-effort prompts
+DPM is non-clinical, open-source, and accessible, offering a clear way for individuals to see patterns that are usually invisible during depressive cycles.
 
-Tracking environmental, nutritional, or social variables
+💡 What DPM Is
 
-Identifying patterns of descent, stagnation, and recovery
+DPM helps users map:
 
-Comparing weeks over time to reveal invisible rhythms or cycles
+Emotional heaviness, numbness, guilt, hopelessness
 
-🔄 Part of the Self-Mapping Suite
-The DPM works in tandem with other models in the Alien Algorithms self-mapping series:
+Cognitive rumination, fog, shutdown, slowed processing
 
-Anxiety Mapping Model (AMM): A frequency-based model for identifying dominant anxiety types by tracking the most frequent symptoms over time.
+Physical fatigue, heaviness, depletion
 
-PTSD Response Map (PRM): A trauma response framework that reveals recurring triggers and subconscious protective patterns, helping users understand how their nervous system adapts to past events.
+Behavioural withdrawal, avoidance, disrupted routines
 
-Together, these models provide a multi-layered diagnostic toolkit for personal insight and pattern recognition — all non-clinical, open-source, and self-directed.
+Cycles of descent, stagnation, and recovery
 
-✍️ Who It’s For
-Individuals managing depression independently or alongside professional care
+Trigger pathways that influence depressive shifts
 
-Mental health researchers seeking non-invasive data patterning frameworks
+Long-term trends in intensity and frequency
 
-Clinicians offering structured self-reflection tools to patients
+By converting depressive episodes into observable data, DPM gives individuals a clearer sense of when, how, and why their cycles repeat.
 
-Anyone seeking to decode their internal patterns with visual clarity
+🔍 Core Elements
+
+The DPM framework explores:
+
+The four domains of depressive experience
+
+Baseline depressive tones
+
+High-intensity spikes or crashes
+
+Recurring loops reinforcing depressive states
+
+Trigger → response → consequence patterns
+
+Multi-week rhythms and cycles
+
+Strategy experimentation to reduce intensity or duration
+
+DPM does not attempt to diagnose or treat — it reveals structure, which empowers the individual to navigate their own internal landscape.
+
+🧠 Why DPM Helps
+
+Depression often feels formless and unpredictable.
+DPM counteracts that by:
+
+Making symptoms visible
+
+Revealing hidden rhythms
+
+Identifying repeated triggers
+
+Highlighting behavioural loops
+
+Showing gradual improvements
+
+Providing language to describe internal states
+
+What feels chaotic becomes understandable.
+
+🔁 Integration With the Anxiety Mapping Model (AMM)
+
+DPM works naturally with the Anxiety Mapping Model (AMM).
+Where AMM maps activation patterns, DPM maps shutdown patterns.
+
+Together, the two models provide a complete self-understanding system.
+
+🔗 Explore the AMM here:
+https://github.com/AlienAlgorithmsLtd/Anxiety-Mapping-Model-AMM-
+
+✍️ Who DPM Is For
+
+Individuals navigating depression
+
+Anyone seeking deep self-insight
+
+Therapists offering non-clinical tools
+
+Mental health educators
+
+Pattern-based researchers
 
 🧾 License
-All content is released under the Creative Commons CC-BY-SA 4.0 license.
-You are free to share, adapt, and build upon this model with proper attribution.
 
-Developed by: Alien Algorithms Ltd®
-Released: 2025
-Purpose: Pattern recognition for self-empowered clarity in depressive states
+Released under CC BY-SA 4.0.
+Attribution is required; derivatives must remain open.
 
-You can’t fix what you can’t see. The Depression Pattern Model makes depression visible.
+“You can’t change what you can’t see.
+The Depression Pattern Model makes the invisible visible.” — Alien Algorithms Ltd®
 
-Legacy version WILL BE DELETED 1/1/2026
+Legacy version WILL BE DELETED: 1/1/2026
