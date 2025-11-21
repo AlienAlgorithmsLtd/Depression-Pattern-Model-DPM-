@@ -41,3 +41,5 @@ Released: 2025
 Purpose: Pattern recognition for self-empowered clarity in depressive states
 
 You can’t fix what you can’t see. The Depression Pattern Model makes depression visible.
+
+Legacy version WILL BE DELETED 1/1/2026
