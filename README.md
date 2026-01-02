@@ -85,4 +85,4 @@ Licensed under CC BY-SA 4.0
 
 "Depression isn’t a void — it’s a cycle. When you see the rhythm, you regain direction."
 
-Legacy version WILL BE DELETED: 1/1/2026
+Legacy versions WILL BE DELETED!
